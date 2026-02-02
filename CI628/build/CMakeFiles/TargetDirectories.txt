@@ -1,0 +1,3 @@
+C:/ap1750_ci628_module_project/CI628/build/CMakeFiles/MyGame.dir
+C:/ap1750_ci628_module_project/CI628/build/CMakeFiles/ALL_BUILD.dir
+C:/ap1750_ci628_module_project/CI628/build/CMakeFiles/ZERO_CHECK.dir

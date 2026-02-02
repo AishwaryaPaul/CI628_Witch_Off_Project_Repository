@@ -1,0 +1,10 @@
+^C:\AP1750_CI628_MODULE_PROJECT\CI628\CMAKELISTS.TXT
+setlocal
+C:\ap1750_ci628_module_project\cmake_folder\bin\cmake.exe -SC:/ap1750_ci628_module_project/CI628 -BC:/ap1750_ci628_module_project/CI628/build --check-stamp-file C:/ap1750_ci628_module_project/CI628/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

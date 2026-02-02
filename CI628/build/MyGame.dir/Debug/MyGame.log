@@ -1,0 +1,28 @@
+﻿  GameObjects.cpp
+..\src\GameObjects.cpp(16,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\GameObjects.cpp(17,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\GameObjects.cpp(463,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\GameObjects.cpp(464,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\GameObjects.cpp(475,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\GameObjects.cpp(476,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+C:\ap1750_ci628_module_project\CI628\src\Main.cpp(49,21): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ap1750_ci628_module_project\CI628\src\Main.cpp(60,19): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ap1750_ci628_module_project\CI628\src\Main.cpp(98,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\ap1750_ci628_module_project\CI628\src\Main.cpp(208,101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\ap1750_ci628_module_project\CI628\src\Main.cpp(208,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\ap1750_ci628_module_project\CI628\src\Main.cpp(260,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\ap1750_ci628_module_project\CI628\src\Main.cpp(260,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\ap1750_ci628_module_project\CI628\src\Main.cpp(260,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\ap1750_ci628_module_project\CI628\src\Main.cpp(260,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\ap1750_ci628_module_project\CI628\src\Main.cpp(570,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\ap1750_ci628_module_project\CI628\src\Main.cpp(805,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MyGame.cpp
+C:\ap1750_ci628_module_project\CI628\src\MyGame.cpp(113,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\ap1750_ci628_module_project\CI628\src\MyGame.cpp(121,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\ap1750_ci628_module_project\CI628\src\MyGame.cpp(128,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\ap1750_ci628_module_project\CI628\src\MyGame.cpp(138,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\ap1750_ci628_module_project\CI628\src\MyGame.cpp(244,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\ap1750_ci628_module_project\CI628\src\MyGame.cpp(247,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  MyGame.vcxproj -> C:\ap1750_ci628_module_project\CI628\build\Debug\MyGame.exe
